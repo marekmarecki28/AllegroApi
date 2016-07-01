@@ -35,7 +35,7 @@ public class AllegroUtils {
 			SysStatusType[] sysStatusTypeList = sysStatusResponse.getSysCountryStatus();
 			SysStatusType sysStatusType = sysStatusTypeList[0];
 			
-			DoLoginRequest params = new DoLoginRequest("uuu","ppp", 1, WEB_API_KEY,sysStatusType.getVerKey());
+			DoLoginRequest params = new DoLoginRequest("Client:29407123","b555bd6feb3e05d2", 1, WEB_API_KEY,sysStatusType.getVerKey());
 			
 			DoLoginResponse resp = client.doLogin(params);
 			
