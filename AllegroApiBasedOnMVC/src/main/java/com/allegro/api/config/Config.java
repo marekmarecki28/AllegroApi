@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 import org.springframework.web.servlet.view.UrlBasedViewResolver;
   
 @Configuration 
-@ComponentScan("com.javahash.spring")
+@ComponentScan("com.allegro.api")
 @EnableTransactionManagement
 @EnableWebMvc
 public class Config extends WebMvcConfigurerAdapter{  
