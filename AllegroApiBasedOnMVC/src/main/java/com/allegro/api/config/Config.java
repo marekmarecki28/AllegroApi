@@ -1,4 +1,4 @@
-package com.javahash.spring.config;  
+package com.allegro.api.config;  
   
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

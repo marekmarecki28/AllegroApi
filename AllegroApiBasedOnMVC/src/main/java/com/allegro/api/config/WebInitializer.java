@@ -1,4 +1,4 @@
-package com.javahash.spring.config;
+package com.allegro.api.config;
 
 import javax.servlet.ServletContext;  
 import javax.servlet.ServletException;  

@@ -1,4 +1,4 @@
-package com.javahash.spring.controller;
+package com.allegro.api.controller;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.javahash.spring.utils.AllegroUtils;
+import com.allegro.api.utils.AllegroUtils;
 
 @Controller
 public class HelloWorldController { 

@@ -1,4 +1,4 @@
-package com.javahash.spring.utils;
+package com.allegro.api.utils;
 
 import java.rmi.RemoteException;
 import java.util.ArrayList;
